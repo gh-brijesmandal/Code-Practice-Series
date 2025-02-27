@@ -1,0 +1,9 @@
+Withdraw denied due to no balance. 0
+Your current balance is  0
+You deposited  100
+Withdraw denied due to less balance amount. 0
+You withdrawed  10
+Your current balance is  90
+You withdrawed  60
+You deposited  100
+Your current balance is  130
